@@ -1,0 +1,21 @@
+{
+    "name": "cloud9-reloaded-theme",
+    "displayName": "Cloud9 Reloaded Theme",
+    "description": "Cloud9 Reloaded: Dark theme for VS Code, based on Cloud9 IDE (forked from 'Cloud9 Inspired Theme')",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cloud9 Reloaded",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cloud9 Reloaded-color-theme.json"
+            }
+        ]
+    }
+}
