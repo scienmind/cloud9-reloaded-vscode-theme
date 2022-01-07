@@ -3,6 +3,14 @@
     "displayName": "Cloud9 Reloaded Theme",
     "description": "Cloud9 Reloaded: Dark theme for VS Code, based on Cloud9 IDE (forked from 'Cloud9Theme')",
     "version": "0.0.1",
+    "publisher": "scienmind",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/scienmind/cloud9-reloaded-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/scienmind/cloud9-reloaded-theme/issues"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
