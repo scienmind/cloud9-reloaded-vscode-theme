@@ -1,7 +1,7 @@
 {
     "name": "cloud9-reloaded-theme",
     "displayName": "Cloud9 Reloaded Theme",
-    "description": "Cloud9 Reloaded: Dark theme for VS Code, based on Cloud9 IDE (forked from 'Cloud9 Inspired Theme')",
+    "description": "Cloud9 Reloaded: Dark theme for VS Code, based on Cloud9 IDE (forked from 'Cloud9Theme')",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
